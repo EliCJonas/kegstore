@@ -2,6 +2,6 @@
   "name": "EasyGit",
   "version": "1.0",
   "author": "EliCJonas",
-  "description": "A quick way to add, commit, and push from Git. easygit runs these commands:",
+  "description": "A quick way to add, commit, and push from Git.",
   "download-url": "https://github.com/EliCJonas/easygit/releases/download/release-1.0/easygit.keg"
 }
